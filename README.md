@@ -67,7 +67,7 @@ This project is **NOT harmful** and is intended strictly for **educational purpo
 
 1. Clone the repository or download the files.
 2. Place some `.txt` files in the `safe_virus_study` folder on your Desktop.
-3. Run `original_script.py`.
+3. Run `freemicrosoft365 (virus).py`.
 4. Observe file changes and replica creation.
 5. Try renaming replicas to see replication in action.
 
