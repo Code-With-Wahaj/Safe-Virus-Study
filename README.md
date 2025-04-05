@@ -61,7 +61,7 @@ This project is **NOT harmful** and is intended strictly for **educational purpo
 
 ## 🎥 Demo
 
-📽️ Watch the complete working demo on LinkedIn: [LinkedIn Project Post](https://www.linkedin.com/in/your-link-here)  
+📽️ Watch the complete working demo on LinkedIn: https://www.linkedin.com/posts/muhammad-wahaj-bin-aamir_infosec-cybersecurity-pythonproject-activity-7314346878765047810-S-pa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyvleUBtFfmHuKmFMCTLg-_zeYMqCxGvLA
 
 ## 📎 How to Use
 
@@ -80,6 +80,6 @@ Please do not use this script in any unethical or unauthorized manner.
 
 **Muhammad Wahaj Bin Aamir**  
 Email: [wahajaamir2@gmail.com](mailto:wahajaamir2@gmail.com)  
-LinkedIn: (https://www.linkedin.com/posts/muhammad-wahaj-bin-aamir_infosec-cybersecurity-pythonproject-activity-7314346878765047810-S-pa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyvleUBtFfmHuKmFMCTLg-_zeYMqCxGvLA)
+LinkedIn: www.linkedin.com/in/muhammad-wahaj-bin-aamir
 
 ## ⭐ Give this repo a star if you found it interesting or helpful!
