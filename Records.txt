@@ -1,0 +1,20 @@
+Employee Records
+
+Name: Jane Smith  
+Employee ID: 4589  
+Position: Marketing Manager  
+Department: Sales and Marketing  
+Contact: janesmith@company.com  
+Performance Score: 92  
+
+Name: Mark Johnson  
+Employee ID: 7823  
+Position: Software Engineer  
+Department: IT  
+Contact: markjohnson@company.com  
+Performance Score: 88  
+
+
+This file has been safely modified by a benign script.
+
+This file has been safely modified by a benign script.

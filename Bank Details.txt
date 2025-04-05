@@ -1,0 +1,11 @@
+Account Holder: John Doe  
+Account Number: 123456789  
+Bank Name: ABC Bank  
+IFSC Code: ABCD0123456  
+Branch: Main Street, New York  
+Balance: $12,450.75  
+
+
+This file has been safely modified by a benign script.
+
+This file has been safely modified by a benign script.
